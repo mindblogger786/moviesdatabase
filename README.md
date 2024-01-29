@@ -23,7 +23,7 @@ Welcome to the Movie Database Web App! This project is a simple web application 
 + Open index.html in a web browser.
 
 ## API Key
-To fetch movie data from the OMDb API, you need to obtain an API key. Visit OMDb API to get your free API key. Replace 'YOUR_API_KEY' in script.js with your actual API key.
+To fetch movie data from the OMDb API, you need to obtain an API key. Visit OMDb API to get your free API key.
 
 ## Project Structure
 + index.html: Main HTML file for the web page.
